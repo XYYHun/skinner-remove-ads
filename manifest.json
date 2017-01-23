@@ -12,6 +12,10 @@
       "matches": [{"type": "domain", "value": "weibo.com"}]
     },
     {
+      "url": "templates/douyu.template.css",
+      "matches": [{"type": "domain", "value": "douyu.com"}]
+    },
+    {
       "url": "templates/ngacn.template.css",
       "matches": [{"type": "domain", "value": "bbs.ngacn.cc"}]
     }

@@ -1,0 +1,35 @@
+
+div[data-type="sign"]
+{
+  display: none !important;
+}
+
+.ngad-cont
+{
+  display: none !important;
+}
+
+.room-ad-top
+{
+  display: none !important;
+}
+
+.assort-ad
+{
+  display: none !important;
+}
+
+.focus-lead,
+.star-gift-guide,
+.myvip--guide--oncar,
+#right_col_peck,
+.js-live-room-recommend,
+.room-ad-video-down,
+.room-ad-bottom,
+.chat-right-ad,
+.tab .tab-body .promote,
+.newYear-show
+{
+  display: none !important;
+}
+  
