@@ -1,0 +1,15 @@
+
+.M_sc_tips
+{
+  display: none !important;
+}
+
+.yy_banner
+{
+  display: none !important;
+}
+
+div[ad-data]
+{
+  display: none !important;
+}
