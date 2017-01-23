@@ -1,11 +1,15 @@
 {
   "id": "xyyhun-remove-ads",
   "name": "Remove Ads",
-  "version": "2017-01-23:a",
+  "version": "2017-01-23:b",
   "templates": [
     {
       "url": "templates/sina.template.css",
       "matches": [{"type": "domain", "value": "sina.com.cn"}]
+    },
+    {
+      "url": "templates/ngacn.template.css",
+      "matches": [{"type": "domain", "value": "bbs.ngacn.cc"}]
     }
   ]
 }
