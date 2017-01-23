@@ -1,7 +1,7 @@
 {
   "id": "xyyhun-remove-ads",
   "name": "Remove Ads",
-  "version": "2017-01-23:c",
+  "version": "2017-01-23:d",
   "templates": [
     {
       "url": "templates/sina.template.css",
